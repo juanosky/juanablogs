@@ -4,15 +4,24 @@ body
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
+#cabecera
+{
+    padding: 25px;
+    font-size: larger;
+    background-color: rgba(127, 255, 212, 0.411);
+    text-align: center;
+}
 
 #post
 {
-width: 1000px;
-padding: 10px;
+color: rgb(37, 37, 37);
+width: 1250px;
 text-align: left;
-border: 1px solid maroon;
+border: 2px solid maroon;
 }
+
 #titulo
 {
-color: blueviolet;
+text-align: center;
+color: rgb(0, 0, 0);
 }
