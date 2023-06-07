@@ -3,3 +3,16 @@ body
     text-align: center;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
+
+
+#container
+{
+width: 1000px;
+padding: 1cm;
+text-align: left;
+border: 1px solid maroon;
+}
+#titulo
+{
+color: blueviolet;
+}
