@@ -5,10 +5,10 @@ body
 }
 
 
-#container
+#post
 {
 width: 1000px;
-padding: 1cm;
+padding: 10px;
 text-align: left;
 border: 1px solid maroon;
 }
