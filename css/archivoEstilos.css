@@ -1,23 +1,40 @@
 body
 {
+    background-color:#F3DEBA;
     text-align: center;
     font-family: Georgia, 'Times New Roman', Times, serif, Geneva, Tahoma, sans-serif;
 }
 
+#container 
+{
+    width: 1150px;
+    margin-top: 10px;
+    margin-bottom: 50px;
+    margin-left: 50px;
+    margin-right: 50px;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-bottom: 50px;
+    padding-top: 10px;
+}
 #cabecera
 {
     padding: 25px;
-    font-size: larger;
-    background-color: rgba(127, 255, 212, 0.411);
+    font-size: 40px;
+    background-color:  #A9907E;
     text-align: center;
 }
-
+#logo
+{
+    width: 80px;
+    height: 80x;
+}
 #post
 {
 color: rgb(37, 37, 37);
-width: 1250px;
 text-align: left;
-border: 2px solid maroon;
+border: 2px solid #675D50;
+background-color: #FFF4E0;
 }
 
 #titulo
