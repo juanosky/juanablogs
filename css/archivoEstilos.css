@@ -3,4 +3,13 @@ body
     background-color:#F3DEBA;
 }
 
+#cabecera{
+    padding: 100px;
+    margin: 100px;
+    background-color:rgb(78, 58, 32);   
+}
 
+#logo{
+    width: 60px;
+    height: 60px;
+}
