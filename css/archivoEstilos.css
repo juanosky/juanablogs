@@ -3,6 +3,10 @@ body
     background-color:#F3DEBA;
 }
 
+.portada
+{
+    margin: 25px;
+}
 #cabecera
 {
      padding: 25px;
@@ -18,12 +22,14 @@ body
     height: 70px;
 }
 
-#contenido
+#contenidoPrincipal
 {
+    padding: 30px;
+    color: rgb(37, 37, 37);
+    text-align: left;
+    border: 2px solid #675D50;
+    background-color: #FFF4E0;
     font-family: cursive;
-padding: 25px;
-font-size: 20px;
-background-color: rgb(202, 173, 120);
 }
 
 #boton1, #boton2
