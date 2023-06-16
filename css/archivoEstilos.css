@@ -36,8 +36,17 @@ color: rgb(37, 37, 37);
 text-align: left;
 border: 2px solid #675D50;
 background-color: #FFF4E0;
+font-family: cursive;
 }
 
+#principio{
+    font-size:15px ;
+    
+    color: #9e9c9b;
+}
+#central{
+    font-size: 20px;
+}
 #titulo
 {
 text-align: center;
