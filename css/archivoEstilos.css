@@ -22,7 +22,8 @@ body
     height: 70px;
 }
 
-#contenidoPrincipal
+#contenidoPrincipal, #contenidoBoton1, #contenidoBoton2
+
 {
     padding: 30px;
     color: rgb(37, 37, 37);
@@ -34,9 +35,11 @@ body
 
 #boton1, #boton2
 {
+    
     border-color: aliceblue;
     border-radius: 20px;
     background-color: #A9907E;
     margin: 100px;
     padding: 15px;
 }
+
