@@ -22,7 +22,7 @@ body
     height: 70px;
 }
 
-#contenidoPrincipal, #contenidoBoton1, #contenidoBoton2
+#contenidoPrincipal
 
 {
     padding: 30px;
@@ -31,6 +31,14 @@ body
     border: 2px solid #675D50;
     background-color: #FFF4E0;
     font-family: cursive;
+}
+
+#tituloA, #tituloB
+{
+    font-weight:bolder;
+    text-align: center;
+    font-size: 34;
+    color: #000000;
 }
 
 #boton1, #boton2

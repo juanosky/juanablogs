@@ -1,1 +1,1 @@
-
+alert("bienvenid@,estas en la v.0 de este blog, las proximas versiones vendran pronto ;)")
